@@ -1,6 +1,6 @@
 # Debug
 
-A simple code inspection tool for development.
+A simple code inspection tool for elixir development.
 
 ## Usage
 
