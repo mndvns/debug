@@ -63,7 +63,7 @@ With `Debug`:
 
 The first `Debug.log/2` will prepend `:first_transform` to the output in addition to the code file and line.
 
-In the second `Debug.info/1`, the source code is prepended to the output. So matter where the inspecting function is,
+In the second `Debug.info/1`, the source code is prepended to the output. So no matter where the inspecting function is,
 you can always find your way back to the source to remove or modify it.
 
 You can see below how `Debug` works around your piped values.
